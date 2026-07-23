@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fabeus.github.io/handbook-51jovx/sitemap.xml
